@@ -17,11 +17,6 @@ You need to select seed phrase and wallet and press enter to copy them.
 - Balance.cmd - shows current balance
 - Send.cmd - send Pyrin to another address.
 
-## How to sync node faster 
-Get a datadir2 folder snapshot here
-https://drive.google.com/drive/folders/1wFGPRwAumdjffM1kz1AmSgOfzOB-i8So?usp=sharing
-and unzip it to AppData\Local\Pyipad\pyrin-mainnet
-
 ## If something goes wrong
 If you want to run setup again you may delete `Pyipad` and `Pyrinwallet` folders in AppData\Local (%localappdata%).
 Do not do that if you already used your wallet or you will lose funds on it.
